@@ -9,7 +9,7 @@ Ideally, post:
 
 Notes: we don't recommend people we don't know. Please connect with the teams yourself, talent needs to meet talent without middleman.  
 
-Obviously, this initiative was originated to help out the Consensys alumni but it's not restricted to them. We are al searching for a dream position.   
+Obviously, this initiative was originated to help out the Consensys alumni but it's not restricted to them. We are all searching for a dream position.   
 
 Please no recruiters.   
 
