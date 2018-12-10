@@ -13,4 +13,6 @@ Obviously, this initiative was originated to help out the Consensys alumni but i
 
 Please no recruiters.   
 
+No outsourcing offers. We are trying to connect PEOPLE with JOBS. Not to grow your business portfolio. 
+
 The Department of Decentralization does not get anything for referrals, nor does it want to, or benefits in any way. We are here to help. 
