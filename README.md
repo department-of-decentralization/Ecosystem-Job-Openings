@@ -7,9 +7,8 @@ Ideally, post:
 3. Benefits
 4. Contact e-mail 
 
-# IMPORTANT
-
-The Department of Decentralization's Ecosystem Jobs repo is not responsible for the openings. Apply at your own discretion, and make sure to do your due diligence. Only recruiters and offers for outsourcing will be not merged.
+# IMPORTANT DISCLAIMER
+The Department of Decentralization's Ecosystem Jobs repo is not responsible for the openings. Apply at your own discretion, and make sure to do your due diligence. We only filter job postings to make sure they are coming from a company and not from recruiting or outsourcing firms. **We don't assess the quality of the listed jobs, company, project, startup, etc**
 
 Notes: we don't recommend people we don't know. Please connect with the teams yourself, talent needs to meet talent without middlemen.  
 
@@ -20,4 +19,3 @@ Please no recruiters.
 No outsourcing offers. We are trying to connect PEOPLE with JOBS. Not to grow your business portfolio. 
 
 The Department of Decentralization does not get anything for referrals, nor does it want to, or benefits in any way. We are here to help. 
-
