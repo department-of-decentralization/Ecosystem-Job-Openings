@@ -21,8 +21,8 @@ Please contact us at careers@amun.com and reference any prior blockchain experie
 
 A list of our prior coverage for a background on what we've accomplished
 
-[Financial Times](https://www.ft.com/content/217f71a5-34fe-39ff-9e2d-fd708074602a)
-[Coin Telegraph](https://cointelegraph.com/news/major-swiss-stock-exchange-six-lists-the-worlds-first-crypto-etp-amidst-market-collapse)
-[Coin Telegraph - Europe & Crypto ETPs](https://cointelegraph.com/news/europe-leads-the-way-with-crypto-exchange-traded-products)
-[CCN](https://www.ccn.com/worlds-first-crypto-etp-gets-green-light-in-switzerland/)
-[CoinDesk](https://www.coindesk.com/crypto-exchange-traded-product-to-launch-on-swiss-stock-exchange)
+[Financial Times](https://www.ft.com/content/217f71a5-34fe-39ff-9e2d-fd708074602a) \
+[Coin Telegraph](https://cointelegraph.com/news/major-swiss-stock-exchange-six-lists-the-worlds-first-crypto-etp-amidst-market-collapse) \
+[Coin Telegraph - Europe & Crypto ETPs](https://cointelegraph.com/news/europe-leads-the-way-with-crypto-exchange-traded-products) \
+[CCN](https://www.ccn.com/worlds-first-crypto-etp-gets-green-light-in-switzerland/) \
+[CoinDesk](https://www.coindesk.com/crypto-exchange-traded-product-to-launch-on-swiss-stock-exchange) \
