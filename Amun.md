@@ -25,4 +25,4 @@ A list of our prior coverage for a background on what we've accomplished
 [Coin Telegraph](https://cointelegraph.com/news/major-swiss-stock-exchange-six-lists-the-worlds-first-crypto-etp-amidst-market-collapse) \
 [Coin Telegraph - Europe & Crypto ETPs](https://cointelegraph.com/news/europe-leads-the-way-with-crypto-exchange-traded-products) \
 [CCN](https://www.ccn.com/worlds-first-crypto-etp-gets-green-light-in-switzerland/) \
-[CoinDesk](https://www.coindesk.com/crypto-exchange-traded-product-to-launch-on-swiss-stock-exchange) \
+[CoinDesk](https://www.coindesk.com/crypto-exchange-traded-product-to-launch-on-swiss-stock-exchange)
