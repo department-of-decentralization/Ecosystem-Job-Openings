@@ -1,9 +1,9 @@
-## [Clearmatics](www.clearmatics.com/careers) is hiring! 
+## [Clearmatics](https://www.clearmatics.com/careers) is hiring! 
 
 
 ### What we're building
 
-Founded in 2015, [Clearmatics](www.clearmatics.com/careers) is a London-based blockchain R&D company, whose mission is to build peer-to-peer infrastructures that solve issues and inefficiencies inherent to today's client-server architectures.
+Founded in 2015, [Clearmatics](https://www.clearmatics.com/careers) is a London-based blockchain R&D company, whose mission is to build peer-to-peer infrastructures that solve issues and inefficiencies inherent to today's client-server architectures.
 
 With a special focus on capital markets, we work with firms that have the ambition to reinvent the industry's business models.
 
@@ -52,4 +52,4 @@ Clearmatics is a company with a strong belief in the open source movement and go
 - Great kitchen filled with your favorite snacks and drinks.
 - The opportunity to join a fast growing, game changing, FinTech company ;)
 
-For the latest openings or for more information, check out: [www.clearmatics.com/careers](www.clearmatics.com/careers)
+For the latest openings or for more information, check out: [www.clearmatics.com/careers](https://www.clearmatics.com/careers)
