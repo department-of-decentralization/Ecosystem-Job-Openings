@@ -39,8 +39,12 @@ As we are a very early stage startup, you will have opportunities to expand your
 - Proficiency in other languages (Spanish, Korean, Chinese) is a plus
 - Experience of organising/volunteering at community events is a plus
 
+## Timeline
+
+We opened up the position on 3rd Jan 2019. We are currently aiming to short list canddidates for interviews towards the end of January 2019
+
 ## How to apply
 
 Please email us at hello@kickback.events with information about yourself, your past history, why you want to work at Kickback.
-
+We are only looking for individual candidates at this moment. If recruiters or third party service providers apply, we will not be responding.
 
