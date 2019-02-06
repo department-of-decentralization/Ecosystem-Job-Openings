@@ -3,7 +3,7 @@
 
 ### What we're building
 
-At [Clearmatics](https://clearmatics.com), we are designing, building and deploying peer-to-peer platforms for financial industry participants to transact seamlessly and securely without unnecessary intermediaries.
+At [Clearmatics](https://www.clearmatics.com), we are designing, building and deploying peer-to-peer platforms for financial industry participants to transact seamlessly and securely without unnecessary intermediaries.
 
 We call our technology approach "decentralized automation", which combines cryptography, consensus protocols and economic mechanism design.
 
