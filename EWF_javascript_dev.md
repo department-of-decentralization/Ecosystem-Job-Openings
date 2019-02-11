@@ -1,3 +1,6 @@
+# What are we looking for? #
+Full-time javascript developer based in Berlin. 
+
 # Who are we? #
 Energy Web Foundation (EWF) is a non-profit founded with a vision of accelerating the transition to a decentralized, democratized, decarbonized, and resilient energy system. Vision statements can be a mouthful, but we truly believe that the energy sector needs to undergo a dramatic change. We want to see us moving away from burning fossil fuels and moving towards renewables. We believe the way to accelerate change is through knowledge sharing and what better way to do it than through open source. 
 
