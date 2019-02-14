@@ -5,7 +5,7 @@ At [Energy Web Foundation (EWF)](https://energyweb.org/), we believe that blockc
 To find out [more about EWF head out to our page](https://energyweb.org/) or [check out our code on GitHub.](https://github.com/energywebfoundation)
 
 ## Open positions
-:exclamation: Details and appication info in the links.
+:exclamation: Details and application info in the links.
 
 - [(Senior) Systems Administrator / DevOp](https://github.com/energywebfoundation/jobs/blob/master/SystemsAdministrator_DevOp_x2_full_time.md)
 
