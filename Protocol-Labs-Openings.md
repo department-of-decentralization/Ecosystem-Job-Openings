@@ -28,3 +28,10 @@ Apply even if your specialty is not listed. There are many things in the pipelin
 * JS Systems Engineer, libp2p
 
 For these, DM [@raulvk](https://twitter.com/raulvk) on Twitter.
+
+## Filecoin Roles
+
+* JS Full Stack with some Go, Filecoin (3 month contract with possibility to extend)
+* Community Manager, Filecoin ([description](https://jobs.lever.co/protocol/97eb6fa0-56bd-451d-8d6b-1903617ee9f6))
+
+For these, DM [@ohmu808](https://twitter.com/ohmu808) on Twitter if you saw this here :slightly_smiling_face:
